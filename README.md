@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
 
 ### 👋 &nbsp;Hey there, I'm Rhey Christian
 
