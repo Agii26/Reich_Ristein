@@ -66,7 +66,7 @@
 
 ---
 
-Projects
+### &nbsp;Projects
 
 <table>
   <tr>
@@ -116,7 +116,7 @@ Projects
 
 ---
 
-GitHub Activity
+### &nbsp;GitHub Activity
 
 <div align="center">
 
