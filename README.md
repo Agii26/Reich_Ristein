@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
@@ -66,7 +66,7 @@
 
 ---
 
-### 🚀 &nbsp;Projects
+Projects
 
 <table>
   <tr>
@@ -116,7 +116,7 @@
 
 ---
 
-### 📈 &nbsp;GitHub Activity
+GitHub Activity
 
 <div align="center">
 
