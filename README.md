@@ -1,2 +1,67 @@
-# Reich_Ristein
-A curated showcase of my self-taught developer journey — projects, experiments, and code across Python, JavaScript, HTML/CSS, Java, C, and C++. Built with curiosity, refined with practice.
+<h1 align="center">Hey, I'm Reich_Ristein 👋</h1>
+
+<p align="center">
+  Self-taught developer • Lifelong learner • Building one project at a time
+</p>
+
+---
+
+## About me
+
+I'm a self-taught developer who picked up coding out of curiosity and never stopped. I work across multiple languages depending on what the project needs — from scripting in Python to building interfaces with HTML/CSS/JavaScript to digging into lower-level logic with C and C++.
+
+I believe the best way to learn is to build, break things, and build again.
+
+- 🔭 Currently working on personal projects across my stack
+- 🌱 Always learning — whether it's a new library, a design pattern, or a CS concept
+- 💬 Ask me about Python, JavaScript, C/C++, or Java
+- 📫 Reach me at: *your email or social link here*
+
+---
+
+## Tech stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Tools & platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reich_Ristein&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Reich_Ristein's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reich_Ristein&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+
+---
+
+## What I'm building
+
+I use GitHub to document my learning journey. You'll find:
+
+- **Python scripts** — automation, data, and backend experiments
+- **Web projects** — HTML/CSS/JS interfaces and interactive UIs
+- **C / C++ programs** — algorithms, data structures, and systems-level practice
+- **Java projects** — OOP exercises, CLI tools, and small applications
+
+---
+
+<p align="center">
+  <em>Every project here is a step forward. Feel free to explore, fork, or reach out.</em>
+</p>
