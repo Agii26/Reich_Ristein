@@ -30,23 +30,31 @@ I believe the best way to learn is to build, break things, and build again.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **Tools & platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reich_Ristein&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Reich_Ristein's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Agii26&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Agii26's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reich_Ristein&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agii26&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 ---
@@ -59,6 +67,19 @@ I use GitHub to document my learning journey. You'll find:
 - **Web projects** — HTML/CSS/JS interfaces and interactive UIs
 - **C / C++ programs** — algorithms, data structures, and systems-level practice
 - **Java projects** — OOP exercises, CLI tools, and small applications
+- **Full-stack systems** — like a digital library and restaurant management system
+- **Mobile apps** — built with React Native + Expo
+
+---
+
+## Highlight projects
+
+| Project | Stack | Description |
+|---|---|---|
+| Geospatial Farm Monitoring System | Django, Leaflet.js, PostgreSQL | Thesis project built during internship at Provincial Gov't of Bulacan |
+| Digital Library Management System | Web stack | Full system for managing library records |
+| Restaurant Management System | Web stack | Operations and order management system |
+| Stampify | React Native, Expo | Mobile app for instantly watermarking photos with your brand |
 
 ---
 
