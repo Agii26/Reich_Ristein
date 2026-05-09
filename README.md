@@ -14,7 +14,7 @@
 
 ---
 
-
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ### 👋 &nbsp;Hey there, I'm Rhey Christian
 
@@ -36,7 +36,7 @@
 
 ---
 
-### &nbsp; Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
@@ -66,7 +66,7 @@
 
 ---
 
-### &nbsp;Projects
+### 🚀 &nbsp;Projects
 
 <table>
   <tr>
@@ -113,16 +113,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### &nbsp;GitHub Activity
-
-<div align="center">
-
-[![Agii26's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agii26&bg_color=1a1a2e&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true)](https://github.com/Agii26)
-
-</div>
 
 ---
 
