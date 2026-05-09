@@ -22,7 +22,7 @@ I believe the best way to learn is to build, break things, and build again.
 - 🌱 Always learning — whether it's a new library, a design pattern, or a CS concept
 - 🏛️ Former intern at the Provincial Information Technology Office, Bulacan
 - 💬 Ask me about Python, JavaScript, C/C++, or Java
-- 📫 Reach me at: *your email or social link here*
+- 📫 Reach me at: rheychristian@gmail.com
 
 ---
 
